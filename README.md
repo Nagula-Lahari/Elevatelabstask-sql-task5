@@ -1,6 +1,3 @@
-Of course. Here is a well-formatted `README.md` file that you can use for your GitHub submission. Just copy and paste the content below into a new file named `README.md` in your repository.
-
------
 
 # SQL Developer Internship: Task 5 - SQL Joins
 
